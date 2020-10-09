@@ -1,0 +1,6 @@
+name = "cloudflare-internship-assignment"
+type = "webpack"
+account_id = "284abd6dca029d0a3dbf368833a02820"
+workers_dev = true
+route = ""
+zone_id = ""
