@@ -1,15 +1,8 @@
-# 👷 `worker-template` Hello World
+# About
 
-A template for kick starting a Cloudflare worker project.
+My submission for the General Engineering Challenge for Cloudflare's 2020 internship program.
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+# Things I Did
 
-#### Wrangler
-
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+- All the basic requirements!
+- All the extra credit!
